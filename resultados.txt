@@ -1,0 +1,9 @@
+reconocido:
+50
+88
+
+No reconocido:
+38
+27
+45
+34
